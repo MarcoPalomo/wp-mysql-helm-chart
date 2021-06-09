@@ -1,1 +1,1 @@
-# Chart for the openshift 4.x training
+# WP+MySQL chart for the openshift 4.x training
